@@ -2,7 +2,7 @@
 
 # Valorize O Pequeno Negócio
 
-<img src="img/bairro-png.png" alt="Pequeno_Negocio" height="184" width="226" align="middle">
+<img src="img/bairro-png.png" align=middle alt="Pequeno_Negocio" height="184" width="226" >
 
 Para incentivar o comercio local temos a incrivel opção de criar serviços temporarios e gratuitos para demonstração do impacto em tempo real da tecnologia no negocio de pequeno porte.
   Seguindo o movimento do Sebrae [Compre do Pequeno Negocio](https://asterixsolucoes.com.br/compre_do_pequeno_negocio) .
