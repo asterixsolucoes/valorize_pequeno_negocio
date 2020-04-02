@@ -3,7 +3,7 @@
 # Valorize O Pequeno Negócio
 
 <div style="display: flex; justify-content: center;">
-  <img src="img/bairro-png.png" style="width: 226px; height: 184px;" />
+  <img src="img/bairro-png.png" style="width: 226px; height: 184px; align: center;" />
 </div>
 
 
