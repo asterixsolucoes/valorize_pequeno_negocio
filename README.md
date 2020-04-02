@@ -3,7 +3,7 @@
 # Valorize O Pequeno Negócio
 
 
-<img src="img/bairro-png.png" alt="Compre do Pequeno" height="184" width="226" align="middle"/>
+![Compre do Pequeno](img/bairro-png.png)
 
 
 
