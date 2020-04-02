@@ -1,3 +1,4 @@
+<img src="img/Movimento_Compre_do_Pequeno_Negocio_ Banner_portal.jpg" alt="Movimento_Compre_do_Pequeno_Negocio_Sebrae" height="400" width="1920" align="middle">
 # Valorize O Pequeno Negócio
 
 <img src="img/bairro-png.png" alt="Pequeno_Negocio" height="184" width="226" align="middle">
