@@ -2,7 +2,7 @@
 <img src="img/bairro-png.png" alt="Compre do Pequeno Negocio" height="184" width="226" align="middle">
 <br>
 Para incentivar o comercio local temos a incrivel opção de criar serviços temporarios e gratuitos para demonstração do impacto em tempo real da tecnologia no negocio de pequeno porte.
-Seguindo o movimento do Sebrae [Compre_do_Pequeno_Negocio](https://asterixsolucoes.com.br/compre_do_pequeno_negocio).
+Seguindo o movimento do Sebrae ![Compre_do_Pequeno_Negocio](https://asterixsolucoes.com.br/compre_do_pequeno_negocio).
 <img src="img/compredopequenonegociosebrae.jpg" alt="Compre_do_Pequeno_Negocio_-_Sebrae" height="500" width="566" align="middle">
 <img src="img/AsterixSolucoes_logo.png" alt="Compre do Pequeno Negocio - Sebrae" height="70" width="334" align="middle">
 A Asterix Soluções esta disponibilizando um treinamento completo ("mão na massa") com todos os passos para qualquer pessoa incluir um negócio de pequeno a medio porte à internet.
