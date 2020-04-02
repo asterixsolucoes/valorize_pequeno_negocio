@@ -1,4 +1,4 @@
-# ::Valorize O Pequeno Negócio::
+# Valorize O Pequeno Negócio
 
 <img src="img/bairro-png.png" alt="Compre do Pequeno Negocio" height="184" width="226" align="middle"/>
 <br>
