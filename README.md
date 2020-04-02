@@ -3,7 +3,7 @@
 # Valorize O Pequeno Negócio
 
 
-![Compre do Pequeno](img/bairro-png.png)
+<center>![Compre do Pequeno](img/bairro-png.png)</center>
 
 
 
