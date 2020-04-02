@@ -1,10 +1,10 @@
-<img src="img/Movimento_Compre_do_Pequeno_Negocio_ Banner_portal.jpg" alt="Movimento_Compre_do_Pequeno_Negocio_Sebrae" height="250" width="1400">
+<img src="img/Movimento_Compre_do_Pequeno_Negocio_ Banner_portal.jpg" alt="Movimento_Compre_do_Pequeno_Negocio_Sebrae" height="250" width="1400"/>
 
 # Valorize O Pequeno Negócio
 
-<div style="display: flex; justify-content: center;">
-  <img src="img/bairro-png.png" style="width: 226px; height: 184px; align: center;" />
-</div>
+
+<img src="img/bairro-png.png" alt="Compre do Pequeno" height="184" width="226" align="middle"/>
+
 
 
 Para incentivar o comercio local temos a incrivel opção de criar serviços temporarios e gratuitos para demonstração do impacto em tempo real da tecnologia no negocio de pequeno porte.
